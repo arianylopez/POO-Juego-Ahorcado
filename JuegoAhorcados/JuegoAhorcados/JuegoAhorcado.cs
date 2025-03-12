@@ -31,6 +31,12 @@
                         continue; 
                     }
 
+                    if (char.IsDigit(letra)) 
+                    {
+                        Console.WriteLine("Error: No ingresar números, ingresar letras minúsuculas.");
+                        continue; 
+                    }
+
                     if (!palabra.AdivinarLetra(letra)) 
                     {
                         jugador.PerderVida();
