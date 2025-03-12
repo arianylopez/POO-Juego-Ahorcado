@@ -1,0 +1,14 @@
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\bin\Debug\net8.0\JuegoAhorcados.exe
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\bin\Debug\net8.0\JuegoAhorcados.deps.json
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\bin\Debug\net8.0\JuegoAhorcados.runtimeconfig.json
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\bin\Debug\net8.0\JuegoAhorcados.dll
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\bin\Debug\net8.0\JuegoAhorcados.pdb
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\obj\Debug\net8.0\JuegoAhorcados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\obj\Debug\net8.0\JuegoAhorcados.AssemblyInfoInputs.cache
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\obj\Debug\net8.0\JuegoAhorcados.AssemblyInfo.cs
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\obj\Debug\net8.0\JuegoAhorcados.csproj.CoreCompileInputs.cache
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\obj\Debug\net8.0\JuegoAhorcados.dll
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\obj\Debug\net8.0\refint\JuegoAhorcados.dll
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\obj\Debug\net8.0\JuegoAhorcados.pdb
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\obj\Debug\net8.0\JuegoAhorcados.genruntimeconfig.cache
+C:\Users\arian\OneDrive\Documentos\UCB TAREAS\PROGRAMACION 2\JuegoAhorcados\JuegoAhorcados\obj\Debug\net8.0\ref\JuegoAhorcados.dll
