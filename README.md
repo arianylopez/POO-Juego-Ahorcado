@@ -50,3 +50,7 @@ El programa está diseñado en el lenguaje de Programación C#, utilizando Progr
   ├── AgregarLetraIncorrecta(letra)
 
 ### Diagrama UML 
+
+![image](https://github.com/user-attachments/assets/283d6411-61ec-49ea-acf0-625e42b71367)
+
+
